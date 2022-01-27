@@ -30,3 +30,16 @@ Four other political parties (PTP; PCTP/MRPP; JPP; Aliança) are running in the 
 YAKE! is an unsupervised keyword extraction algorithm which rests on text statistical features to extract relevant keyphrases from single documents. Its plug-and-play nature and adaptability to different domains and languages, plus a good compromise between effectiveness and efficience, makes it a good solution for this use-case scenario.
 
 A tutorial on how to extract keywords from the programmes can be found on [medium](https://medium.com/@ricardo.campos/keyword-extraction-from-political-party-programmes-dd7fdcd671c9). 
+
+# References
+Please cite the following works when using YAKE:
+
+**In-depth journal paper at Information Sciences Journal**
+
+- Campos, R., Mangaravite, V., Pasquali, A., Jatowt, A., Jorge, A., Nunes, C. and Jatowt, A. (2020). YAKE! Keyword Extraction from Single Documents using Multiple Local Features. In Information Sciences Journal. Elsevier, Vol 509, pp 257-289. [pdf](https://doi.org/10.1016/j.ins.2019.09.013)
+
+**ECIR'18 Best Short Paper**
+
+- Campos R., Mangaravite V., Pasquali A., Jorge A.M., Nunes C., and Jatowt A. (2018). A Text Feature Based Automatic Keyword Extraction Method for Single Documents. In: Pasi G., Piwowarski B., Azzopardi L., Hanbury A. (eds). Advances in Information Retrieval. ECIR 2018 (Grenoble, France. March 26 – 29). Lecture Notes in Computer Science, vol 10772, pp. 684 - 691. [pdf](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_63)
+
+- Campos R., Mangaravite V., Pasquali A., Jorge A.M., Nunes C., and Jatowt A. (2018). YAKE! Collection-independent Automatic Keyword Extractor. In: Pasi G., Piwowarski B., Azzopardi L., Hanbury A. (eds). Advances in Information Retrieval. ECIR 2018 (Grenoble, France. March 26 – 29). Lecture Notes in Computer Science, vol 10772, pp. 806 - 810. [pdf](https://link.springer.com/chapter/10.1007/978-3-319-76941-7_80)

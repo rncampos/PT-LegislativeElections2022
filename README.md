@@ -1,4 +1,4 @@
-# PT-LegislativeElections2022
+# Keyword Extraction from Political Party Programmes - Portuguese Legislative Elections 2022
 Keyword Extraction from Political Party Programmes. The Portuguese Legislative Elections - 30th January, 2022
 
 Tutorial available on [medium](https://medium.com/@ricardo.campos/keyword-extraction-from-political-party-programmes-dd7fdcd671c9). 

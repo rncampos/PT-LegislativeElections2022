@@ -1,7 +1,9 @@
 # Keyword Extraction from Political Party Programmes - Portuguese Legislative Elections 2022
-Keyword Extraction from Political Party Programmes. The Portuguese Legislative Elections - 30th January, 2022
+Repository created for the purposes of the [iConference 2023](https://www.ischools.org/past-conferences/2023)
 
-Tutorial available on [medium](https://medium.com/@ricardo.campos/keyword-extraction-from-political-party-programmes-dd7fdcd671c9). 
+Check out our Google Colab:
+
+[<img src="https://i.imgur.com/6xSa3Zu.png" alt="MarineGEO circle logo" width="180px"/>](https://drive.google.com/file/d/1X3UEGoPl9WZb2I2JXAoDhihE6l79pkFn/view?usp=sharing)
 
 <p align="center">
   <img src="https://github.com/rncampos/PT-LegislativeElections2022/blob/main/MAP_Readme.png">
@@ -32,6 +34,8 @@ Four other political parties (PTP; PCTP/MRPP; JPP; Aliança) are running in the 
 YAKE! is an unsupervised keyword extraction algorithm which rests on text statistical features to extract relevant keyphrases from single documents. Its plug-and-play nature and adaptability to different domains and languages, plus a good compromise between effectiveness and efficience, makes it a good solution for this use-case scenario.
 
 ## References
+- Campos, R., Jatowt, A. and Jorge, A. (2023). Keyword Extraction from Political Party Programmes - Portuguese Legislative Elections 2022, In Proceedings of the iConference 2023. Barcelona, Spain. March 29 - 27, 2023.
+
 Please cite the following works when using YAKE:
 
 **In-depth journal paper at Information Sciences Journal**
